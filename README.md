@@ -1,23 +1,16 @@
-# Nathan Kim 👋
+👋 Hey, I’m Nathan Kim!
 
-MIT Class of 2028  
-Mathematics (18-G) • Artificial Intelligence (6-4) • Finance Minor
+I’m a math and AI student at MIT with a deep passion for mathematical theory — especially probability, optimization, and understanding how abstract ideas translate into real-world systems.
 
----
+I’m particularly interested in how mathematics underpins decision-making, markets, and learning algorithms, and I enjoy exploring the bridge between theory and application.
 
-### Interests
-- Quantitative finance & prediction markets  
-- Volatility modeling & tail risk  
+🔧 What I’m Learning
 - Applied probability & stochastic processes  
-- Optimization and algorithmic decision-making  
+- Mathematical modeling for finance and markets  
+- Python for research and experimentation  
 
----
+🌿 Outside of Math
+I enjoy surfing, skiing, hiking, and spending time outdoors — anything that keeps me moving.
 
-### Currently exploring
-- Belief updating and underreaction in market prices  
-- Translating statistical models into deployable trading systems  
-
----
-
-📍 Cambridge, MA  
-📧 nkim4724@mit.edu
+📫 Get in Touch  
+📩 Email: nkim4724@mit.edu
