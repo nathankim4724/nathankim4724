@@ -1,8 +1,8 @@
 ## Hey, I’m Nathan Kim!
 
-Currently at Statar Capital.
-
 I’m a math and AI student at MIT with interests in mathematical theory and its applications.
+
+Previously a quantitative research intern at Statar Capital.
 
 I enjoy surfing, skiing, hiking, and spending time outdoors.
 
