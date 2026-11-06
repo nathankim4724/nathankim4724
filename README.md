@@ -1,6 +1,6 @@
 ## Hey, I’m Nathan Kim!
 
-I’m a math and AI student at MIT with interests in mathematical theory and its applications.
+I’m a math and cs student at MIT with interests in mathematical theory and its applications.
 
 Previously a quantitative research intern at Statar Capital.
 
